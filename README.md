@@ -2,7 +2,7 @@ ECOMMERCE Website
 
 Tech Stack -
 
-Vue.js (Frontend)
+Vue.js (Frontend),
 Django (Backend)
 
 Pages -
